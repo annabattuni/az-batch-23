@@ -339,6 +339,8 @@
       <Link>DependencyValidation1.layerdiagram</Link>
       <Visible>False</Visible>
     </AdditionalFiles>
+    <None Include="Properties\PublishProfiles\my-app-service-01 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\my-webapp-server-01 - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\partsunlimited-sample - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\partsunlimited-vcurrent.pubxml" />
     <None Include="Properties\PublishProfiles\partsunlimitedcus07.pubxml" />
@@ -392,6 +394,7 @@
     <Content Include="Images\unlimited_logo.png" />
     <Content Include="Scripts\ai.0.15.0-build58334.js" />
     <Content Include="Scripts\ai.0.15.0-build58334.min.js" />
+    <None Include="Properties\PublishProfiles\web-unlimited-01 - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.1.1.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
